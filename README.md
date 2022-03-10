@@ -50,7 +50,7 @@ As for the second one, you will delete your file completely.
 
 
 
-This is a project that i intend to continue working on, there are a great deal of thing that i want to include, and bugs that i want to fix.
+This is a project that i intend to continue working on, there are a great deal of things that i want to include, and bugs that i want to fix.
 
 
 
@@ -60,4 +60,3 @@ This is a project that i intend to continue working on, there are a great deal o
 
 - Nothing is changed upon editing a task;
 - Every task is lost upon closing the application;
-
