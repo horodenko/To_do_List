@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To-do List</string>
+    <string name="newTask">Create Task</string>
+    <string name="titleHint">Title</string>
+    <string name="newDesc">Description</string>
+    <string name="pickDate">Date</string>
+    <string name="selectTime">Time</string>
+    <string name="createBtn">Create</string>
+    <string name="label_tasks">Tasks</string>
+    <string name="desc_new_task">New task</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_delete">Delete</string>
+    <string name="empty_state_message">Rest! Ferelden doesn\'t \nneed you right now.</string>
+</resources>

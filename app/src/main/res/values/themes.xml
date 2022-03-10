@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.To_do_List" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/redish</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorSecondary">@color/redish</item>
+        <item name="colorOnSecondary">@color/yellow</item>
+    </style>
+    <style name="TrajanFont">
+        <item name="android:fontFamily">@font/trajan_pro</item>
+        <item name="fontFamily">@font/trajan_pro</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+</resources>
